@@ -35,4 +35,4 @@ AmazonSageMakerPipelinesIntegrations
 AmazonSageMakerFullAccess
 ```
 For the pipeline policy, I cannot added it directly when I created the role, but I managed to add the policy througn [IAM Dashboard] - [policy].
-
+![Finished!](./images/Screenshot from 2024-05-17 12-05-18.png)
